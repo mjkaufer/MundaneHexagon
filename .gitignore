@@ -5,6 +5,12 @@
 *.pydevproject
 .project
 .metadata
+
+*.class
+*.gpj
+.class
+.gpj
+
 bin/
 tmp/
 *.tmp
